@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustavoMMAzevedo
-- 👀 I’m interested in Python and Data Analytics
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in full-stack Wed Development.
+- 🌱 I’m currently a student at The Odin Project!!
 
 <!---
 GustavoMMAzevedo/GustavoMMAzevedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
